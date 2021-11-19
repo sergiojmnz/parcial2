@@ -1,0 +1,11 @@
+<section class = "fondo">
+    <div class = "titulo">Calculadora formula volumen de un cilindro</div>
+    <div class="cal">
+      <label class="text">  𝜋 ×</label>
+      <input type="number" class = "input" placeholder="r" [(ngModel)] = "r" name = "radio">
+      <label class="text">² × </label>
+      <input type="number" class = "input" placeholder="h" [(ngModel)] = "h" name = "altura">
+      <label class="text"> = {{resultado}} </label>
+    </div>
+    <button class = "boton" (click) = "formulaCilindro()">Calcular</button>
+  </section>

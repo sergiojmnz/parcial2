@@ -1,0 +1,48 @@
+.fondo{
+    background: linear-gradient(to right,#e91e63,#3f51b5);
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.cal {
+    background-color: #000000;
+    border-radius: 5px;
+    margin: 6rem;
+    padding: 7rem;
+    border: 2px solid #ccc;
+    text-align: center;
+  }
+.titulo{
+    font-family: 'century gothic';
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.text{
+    font-family: 'MV Boli';
+    color: white;
+    font-size: 50px;
+}
+.input{
+    border: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 55px;
+    height: 35px;
+    font-size:25px;
+    text-align: center;
+    font-family: 'MV Boli';
+}
+.boton{
+    font-family: 'century gothic';
+    font-style: normal;
+    text-align: center;
+    margin-left: 45%;
+    width:110px;
+    height: 25px;
+    top: -50px;
+}
