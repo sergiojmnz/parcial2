@@ -1,0 +1,91 @@
+.fondo{
+    background: linear-gradient(to right,#e91e63,#3f51b5);
+    min-height: 100%;
+    min-width: 1024px;
+    width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.cal {
+    background-color: #000000;
+    border-radius: 5px;
+    width: 1080px;
+    height: 500px;
+    border: 2px solid #ccc;
+    text-align: start;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+  }
+.titulo{
+    font-family: 'century gothic';
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+.text{
+    font-family: 'MV Boli';
+    color: white;
+    font-size: 30px;
+    margin-left: 20px;
+}
+.input{
+    border: rgb(0, 0, 0);
+    border-radius: 5px;
+    width: 55px;
+    height: 35px;
+    font-size:25px;
+    text-align: center;
+    font-family: 'MV Boli';
+}
+.text2{
+    font-family: 'MV Boli';
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+.cinterno{
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 500px;
+    height: 300px;
+    border: 2px solid rgb(99, 94, 94);
+    text-align: start;
+    position: absolute;
+    top: 30%;
+    left: 2%;
+}
+.imagen{
+    width: 150px;
+}
+.text3{
+    font-family: 'MV Boli';
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
+.cinterno2{
+    background-color: #000000;
+    width: 450px;
+    height: 250px;
+    text-align: start;
+    position: absolute;
+    top: 30%;
+    left: 55%;
+}
+.text4{
+    font-family: 'MV Boli';
+    color: white;
+    font-size: 20px;
+}
+.boton{
+    background-color: greenyellow;
+    font-family: 'century gothic';
+    font-style: normal;
+    text-align: center;
+    margin-left: 68%;
+    margin-top: 27%;
+    width:110px;
+    height: 25px;
+}
